@@ -1,0 +1,5 @@
+src/terminal.png, and all of the lib and include directories: https://github.com/libtcod/libtcod
+See libtcod_LICENSE.txt and LIBTCOD-CREDITS.txt
+
+src/jsmn.c and src/jsmn.h: https://github.com/zserge/jsmn
+See jsmn_LICENSE.txt

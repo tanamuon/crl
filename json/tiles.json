@@ -1,0 +1,11 @@
+{
+	"id": 0,
+	"name": "Station floor",
+	"desc": "It doesn't look like you can cut through this.",
+	"c" : "+",
+	
+	"id": 1,
+	"name": "Station wall",
+	"desc": "It doesn't look like you can cut through this.",
+	"c" : "="
+}

@@ -1,0 +1,11 @@
+{
+	"title" : "Roguelike",
+	"omsg" : "Enter the heart of the station at D11 to stop the virus. Press any key to begin game.",
+	"dmsg" : "You have died. Press any key to return to main menu.",
+	"emsg1" : "Destroy the virus and turn over all evidence.",
+	"emsg2" : "Reprogram the virus to accept you as the leader of mankind.",
+	"emsg3" : "Perfect the virus.",
+	"vmsg1" : "The virus is destroyed and the free will of the human race has been preserved. The evidence on the station is more than enough to capture the conspiracy members not aboard the station.",
+	"vmsg2" : "The virus is reprogrammed so that it will bend mankind to your will. The fate that awaits it is yours to decide.",
+	"vmsg3" : "You perfect the virus, eliminating the flaws that enabled it to be used to bend mankind to the will of an individual. Never again will a human be able to act against the good of the collective. Violence and selfishness vanish into myth.",
+}
